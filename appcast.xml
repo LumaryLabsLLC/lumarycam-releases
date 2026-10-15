@@ -3,11 +3,11 @@
   <channel>
     <title>Lumary Cam</title>
     <item>
-      <title>Version 1.2.0</title>
-      <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+      <title>Version 1.2.1</title>
+      <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <pubDate>Thu, 15 Oct 2026 22:32:06 +0000</pubDate>
-      <enclosure url="https://github.com/LumaryLabsLLC/lumarycam-releases/releases/download/v1.2.0/LumaryCam-1.2.0.dmg" sparkle:version="1.2.0" sparkle:edSignature="fOFd+QB9nHoA9Cn5ZfjdNwEPd+HUyjy+VlbXtp9vo/CYHZLje6TjlOUuFRXrxF4pNGI05/LyVl0iEbml54ejBQ==" length="8428813" type="application/octet-stream" />
+      <pubDate>Thu, 15 Oct 2026 22:44:41 +0000</pubDate>
+      <enclosure url="https://github.com/LumaryLabsLLC/lumarycam-releases/releases/download/v1.2.1/LumaryCam-1.2.1.dmg" sparkle:version="1.2.1" sparkle:edSignature="AaGQ7Sevd4J/KEX0ef3t8ygUZyC57m3sqCU5jNv2TKHphsWRxDD8B6ajrpOGIrOQ+lCoM17z3cZkX7fRI99AAg==" length="8429738" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
